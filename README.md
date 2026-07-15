@@ -1,5 +1,7 @@
 # Equity-Investment
 股权投资研究项目
+股权投资分析项目
+
 这是我的第一个GitHub项目。
 学习Git和投资分析。
 ## 学习计划
